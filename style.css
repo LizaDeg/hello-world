@@ -1,0 +1,26 @@
+h1 
+{color:orange;
+	 margin: auto;
+    display: block;
+}
+img {
+	width="250px";
+background-color: bisque;
+    margin: auto;
+    display: block;
+}
+p {font-style: italic;
+ margin: auto;
+    display: block;
+
+}
+body {
+	text-align: center;
+	background-color: yellow;
+}
+li {
+	text-decoration: none;
+	list-style: none;
+}
+
+}
